@@ -2,7 +2,7 @@
 
 # dependencies
 node_modules/
-
+Docs.md
 # Expo
 .expo/
 dist/
